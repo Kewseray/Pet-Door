@@ -1,0 +1,10 @@
+numpy
+matplotlib
+Pillow
+torch
+torchvision
+tensorflow
+Flask
+Flask-SQLAlchemy
+keras
+keras.models
